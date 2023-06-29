@@ -44,6 +44,9 @@ Screenshot of visual and description
 
 #Visualization
 
+Publish powerBi
+Take screenshots
+
 
 #Conclusion
 
