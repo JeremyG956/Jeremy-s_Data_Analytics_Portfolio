@@ -15,13 +15,18 @@ Start with a stock image.
 
 
 # Intro
-This is an individual Final Exam project I was assigned in my Data Visualization course. In this scenario, I represented a consulting company where I was able to work with real data from a fire department. In this scenario, we met with a Fire Department chief. He had a few things he wanted me to keep in mind during the meeting. He wanted to improve morale within the organization. The nature of a firefighter shift is 24 on, 24 off where a minimum of 4 people work a shift. Some people felt overworked because they were working too many holidays. Balance the workload. He also stated they were not allocating resources by data-driven decision-making but instead by a gut feeling. Use the data to drive data driver resource allocation. Finally, he explained training must be held every year and schedule the training during the slow seasons throughout the year. 
+As part of the final assessment project in my Data Visualization course, I undertook a consulting role for a local fire department. Tasked with investigating and addressing several core issues within the organization, the assignment offered a prime opportunity to leverage data analytics and visualization techniques in a real-world setting. The main challenges posed by the Fire Department Chief were threefold: improving department morale, effectively balancing the workload, and streamlining the allocation of resources. This project was a deep dive into the fire department's operational data, which I leveraged to provide data-driven solutions to the stated challenges.
 
 # Problem Statement
-
+The Fire Department Chief highlighted several significant concerns that were negatively impacting the department. Morale was low due to the perception of overwork, especially during holiday periods, because of their 24-hour on, 24-hour off shift pattern. Workload distribution, he noted, was also a considerable problem, as resources were not being allocated based on data-driven decision-making. Rather, the allocation was primarily conducted based on gut feelings or intuition. Additionally, the need for regular training throughout the year, which should ideally be scheduled during slower periods, was also emphasized. In essence, the critical issue was the lack of data-driven decision-making strategies across the board, from scheduling to resource allocation and training.
 
 
 # Data Sourcing
+The primary source of data for this project was the department's records themselves, which were shared in the form of a .csv file named "Fire_Department_Calls_For_Service". This dataset was rich with historical records, encompassing detailed information about call times, shifts, resource allocation, and other pertinent operational details. It offered a comprehensive view of the department's operations, providing the necessary insight to drive data-based decisions and address the chief's concerns effectively.
+
+By integrating and visualizing the data from "Fire_Department_Calls_For_Service", the project aimed to create actionable insights that would enable the department to improve their scheduling practices, distribute the workload more evenly, and allocate resources more effectively. The goal was to assist the fire department in moving from a system reliant on intuition to one that uses data to drive decisions, thereby improving operational efficiency and employee morale.
+
+
 .csv file, extracted into Power Bi.
 
 Describe the columns and values etc.
