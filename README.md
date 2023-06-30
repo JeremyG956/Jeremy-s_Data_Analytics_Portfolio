@@ -48,8 +48,6 @@ Describe the columns and values etc.
 ##Now holidays which is needed for understanding the morale can be analyzed.
 
 
-![Schema of Transformed Data](tables_schema.png)
-##I finally adjusted the dates by Creating a table that contained all the federal holidays and joining it to the data table. I then linked that to the date table to create a connection witha  cardinality of 1 to many as there can be many cases per day. Finally, the data could be properly formatted for analysis. 
 
 
 
@@ -62,9 +60,8 @@ Screenshot of visual and description
 
 
 # Data Modeling
-![alt text](image.jpg)
-
-
+![Schema of Transformed Data](tables_schema.png)
+##I finally adjusted the dates by Creating a table that contained all the federal holidays and joining it to the data table. I then linked that to the date table to create a connection witha  cardinality of 1 to many as there can be many cases per day. Finally, the data could be properly formatted for analysis. 
 
 
 
