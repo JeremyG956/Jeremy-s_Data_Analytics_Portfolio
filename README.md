@@ -30,6 +30,11 @@ Describe the columns and values etc.
 ![alt text](image.jpg)
 ![Inital Observation of the Data Given](nul_values_in_data.PNG)
 
+## I noticed immediately upon loading the data that there was a significant amount of null values where the data was supposed to be. 
+
+![Inital Observation of the Data Values Incorrect](character_where_numeric.PNG)
+## While analyzing the data a bit more I noticed that values for the Priority column were supposed to be numeric (1-3) but were instead labeled as characters (N for Non-Emergency and E for Emergency) 
+
 
 How I changed the data. Screenshot of data modeling
 
