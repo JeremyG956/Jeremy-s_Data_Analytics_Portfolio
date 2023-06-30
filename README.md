@@ -35,17 +35,17 @@ Describe the columns and values etc.
 
 ![Inital Observation of the Data Given](nul_values_in_data.PNG)
 
-## I noticed immediately upon loading the data that there was a significant amount of null values where the data was supposed to be. 
+### I noticed immediately upon loading the data that there was a significant amount of null values where the data was supposed to be. 
 
 ![Inital Observation of the Data Values Incorrect](character_where_numeric.PNG)
 ## While analyzing the data a bit more I noticed that values for the Priority column were supposed to be numeric (1-3) but were instead labeled as characters (N for Non-Emergency and E for Emergency) 
 
 ![Errors Loading Data](Errors_with_data.PNG)
-## As expected, errors were seen when loading the data into PowerBi.
+### As expected, errors were seen when loading the data into PowerBi.
 
 
 ![Completed joined tables with holidays](complete_date_table_w_Holidays.PNG)
-##Now holidays which is needed for understanding the morale can be analyzed.
+### Now holidays which is needed for understanding the morale can be analyzed.
 
 
 
@@ -59,14 +59,15 @@ Screenshot of visual and description
 
 
 
-# Data Modeling
+# Data Modeling 
 ![Schema of Transformed Data](tables_schema.png)
-##I finally adjusted the dates by Creating a table that contained all the federal holidays and joining it to the data table. I then linked that to the date table to create a connection witha  cardinality of 1 to many as there can be many cases per day. Finally, the data could be properly formatted for analysis. 
+##I finally adjusted the dates by Creating a table that contained all the federal holidays and joining it to the data table. I then linked that to the date table to create a connection with a cardinality of 1 to many as there can be many cases per day. Finally, the data could be properly formatted for analysis.
 
 
 
 # Analysis
 
+I noticed some interesting trends at first glance. Here The dashboard conveys an increase in call volume, but a  steep drop off in the "other" category and an increase in Fire, and Code 2 transport. Suggesting reporting standards increased between 2013-2014. You expect with call volume going up all types of calls would go up.
 
 
 # Visualization
