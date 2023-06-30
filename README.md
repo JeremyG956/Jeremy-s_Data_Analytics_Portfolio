@@ -1,4 +1,4 @@
-# H1 Jeremy-s_Data_Analytics_Portfolio
+# H1 Jeremy's_Data_Analytics_Portfolio
 Olympic data analyzed, Fire fighters resources and schedules optimized, advanced SQL joins
 
 
@@ -12,20 +12,20 @@ Intro (Power BI concepts applied), DAX, Data modeling (Star Schema)
 Start with a stock image.
 
 
-#Intro
+# H1 Intro
 
 
 
-#Problem Statement
+# H1 Problem Statement
 
 
 
-#Data Sourcing
+# H1 Data Sourcing
 .csv file, extracted into Power Bi.
 
 Describe the columns and values etc.
 
-#Data Transformations
+# H1 Data Transformations
 
 How I changed the data. Screenshot of data modeling
 
@@ -34,21 +34,21 @@ Screenshot of visual and description
 
 
 
-#Data Modeling
+# H1 Data Modeling
 
 
 
-#Analysis
+# H1 Analysis
 
 
 
-#Visualization
+# H1 Visualization
 
 Publish powerBi
 Take screenshots
 
 
-#Conclusion
+# H1 Conclusion
 
 
 Thank you for reading! :-)
