@@ -12,20 +12,20 @@ Intro (Power BI concepts applied), DAX, Data modeling (Star Schema)
 Start with a stock image.
 
 
-# H1 Intro
+# Intro
 
 
 
-# H1 Problem Statement
+# Problem Statement
 
 
 
-# H1 Data Sourcing
+# Data Sourcing
 .csv file, extracted into Power Bi.
 
 Describe the columns and values etc.
 
-# H1 Data Transformations
+# Data Transformations
 
 How I changed the data. Screenshot of data modeling
 
@@ -34,21 +34,21 @@ Screenshot of visual and description
 
 
 
-# H1 Data Modeling
+# Data Modeling
 
 
 
-# H1 Analysis
+# Analysis
 
 
 
-# H1 Visualization
+# Visualization
 
 Publish powerBi
 Take screenshots
 
 
-# H1 Conclusion
+# Conclusion
 
 
 Thank you for reading! :-)
