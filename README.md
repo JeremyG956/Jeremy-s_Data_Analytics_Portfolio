@@ -12,6 +12,8 @@ Intro (Power BI concepts applied), DAX, Data modeling (Star Schema)
 Start with a stock image.
 
 
+
+
 # Intro
 
 
@@ -34,6 +36,9 @@ Describe the columns and values etc.
 
 ![Inital Observation of the Data Values Incorrect](character_where_numeric.PNG)
 ## While analyzing the data a bit more I noticed that values for the Priority column were supposed to be numeric (1-3) but were instead labeled as characters (N for Non-Emergency and E for Emergency) 
+
+![Errors Loading Data](Errors_with_data.PNG)
+## As expected, errors were seen when loading the data in to PowerBi.
 
 
 How I changed the data. Screenshot of data modeling
