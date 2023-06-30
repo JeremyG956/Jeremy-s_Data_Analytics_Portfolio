@@ -27,6 +27,10 @@ Describe the columns and values etc.
 
 # Data Transformations
 
+![alt text](image.jpg)
+![Inital Observation of the Data Given](nul_values_in_data.PNG)
+
+
 How I changed the data. Screenshot of data modeling
 
 Screenshot of visual and description
@@ -35,6 +39,8 @@ Screenshot of visual and description
 
 
 # Data Modeling
+
+
 
 
 
