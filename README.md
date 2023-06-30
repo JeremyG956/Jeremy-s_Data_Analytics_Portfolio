@@ -15,8 +15,7 @@ Start with a stock image.
 
 
 # Intro
-
-
+This is an individual Final Exam project I was assigned in my Data Visualization course. In this scenario, I represented a consulting company where I was able to work with real data from a fire department. In this scenario, we met with a Fire Department chief. He had a few things he wanted me to keep in mind during the meeting. He wanted to improve morale within the organization. The nature of a firefighter shift is 24 on, 24 off where a minimum of 4 people work a shift. Some people felt overworked because they were working too many holidays. Balance the workload. He also stated they were not allocating resources by data-driven decision-making but instead by a gut feeling. Use the data to drive data driver resource allocation. Finally, he explained training must be held every year and schedule the training during the slow seasons throughout the year. 
 
 # Problem Statement
 
@@ -66,7 +65,7 @@ Screenshot of visual and description
 
 
 # Analysis
-
+![Interesting trend](interesting_trend.PNG)
 I noticed some interesting trends at first glance. Here The dashboard conveys an increase in call volume, but a  steep drop off in the "other" category and an increase in Fire, and Code 2 transport. Suggesting reporting standards increased between 2013-2014. You expect with call volume going up all types of calls would go up.
 
 
