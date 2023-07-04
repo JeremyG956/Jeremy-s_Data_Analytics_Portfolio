@@ -1,4 +1,7 @@
-# H1 Jeremy's_Data_Analytics_Portfolio
+# Fire Fighting Consulting Project
+
+![Welcome](image.jpg)
+
 Olympic data analyzed, Fire fighters resources and schedules optimized, advanced SQL joins
 
 
@@ -14,7 +17,7 @@ Start with a stock image.
 
 
 
-# Intro
+# Introduction
 As part of the final assessment project in my Data Visualization course, I undertook a consulting role for a local fire department. Tasked with investigating and addressing several core issues within the organization, the assignment offered a prime opportunity to leverage data analytics and visualization techniques in a real-world setting. The main challenges posed by the Fire Department Chief were threefold: improving department morale, effectively balancing the workload, and streamlining the allocation of resources. This project was a deep dive into the fire department's operational data, which I leveraged to provide data-driven solutions to the stated challenges.
 
 # Problem Statement
