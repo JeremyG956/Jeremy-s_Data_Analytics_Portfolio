@@ -1,6 +1,6 @@
 # Fire Fighting Consulting Project
 
-![Welcome](image.jpg)
+![Welcome](intro.jpg)
 
 Olympic data analyzed, Fire fighters resources and schedules optimized, advanced SQL joins
 
