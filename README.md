@@ -23,17 +23,17 @@ By integrating and visualizing the data from "Fire_Department_Calls_For_Service"
 
 ![Inital Observation of the Data Given](nul_values_in_data.PNG)
 
-### I noticed immediately upon loading the data that there was a significant amount of null values where the data was supposed to be. 
+I noticed immediately upon loading the data that there was a significant amount of null values where the data was supposed to be. 
 
 ![Inital Observation of the Data Values Incorrect](character_where_numeric.PNG)
-## While analyzing the data a bit more I noticed that values for the Priority column were supposed to be numeric (1-3) but were instead labeled as characters (N for Non-Emergency and E for Emergency) 
+While analyzing the data a bit more I noticed that values for the Priority column were supposed to be numeric (1-3) but were instead labeled as characters (N for Non-Emergency and E for Emergency) 
 
 ![Errors Loading Data](Errors_with_data.PNG)
-### As expected, errors were seen when loading the data into PowerBi.
+As expected, errors were seen when loading the data into PowerBi.
 
 
 ![Completed joined tables with holidays](complete_date_table_w_Holidays.PNG)
-### Now holidays which is needed for understanding the morale can be analyzed.
+Now holidays which is needed for understanding the morale can be analyzed.
 
 
 
@@ -55,6 +55,9 @@ I noticed some interesting trends at first glance. Here The dashboard conveys an
 
 
 # Visualization
+
+I knew that this dashboard was going to be submitted for the Fire Cheif and team for them to use in the future. I wanted to include filters on the left, so they could sort through the visuals by groups and dive deep into the data. Additionally, because this is a project I did in school, I added the school logo on the top left (Go Coogs!).
+
 ![Intro slide](addressing_resource_allocation.PNG)
 
 In my first slide, I really wanted to highlight the need for my services. I wanted my customer to feel comfortable with the services I provide and demonstrate visually that their need for strategic change is necessary and should be data-driven to make an impact. Observing the number of calls by call date there is an increasing trend in the number of calls. If all numbers are increasing, it will become of growing importance to achieve efficiency to save as many lives as possible and serve the community as best as possible. When observing the call number by zip code, 94102 contained the greatest number of calls at 12.5% of the total calls followed by zip codes 94103 and 94110 at 11.98% and 8.52% of calls respectively. Station area 1 contained the greatest number of calls at 295,000 followed by stations 3 and 36 at 193,000 and 127,000 respectively. Here 11 Fire Prevention Districts oversee 28 zip codes or 42 neighborhoods. Collectively, the fire prevention districts have answered nearly 4.8 million distress calls. 
