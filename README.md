@@ -99,7 +99,7 @@ Medical incidents had the greatest mismatch in priority levels. Medical incident
 
 ### What is the average dispatch time, and the time it takes for someone to get to the hospital? Given the total time, how can the time to dispatch + time to the hospital be reduced?
 
-Although the medical units took the least amount of time to get ready and leave the scene, they were the fourth slowest to arrive on the scene. The fourth slowest was also the average time, meaning they on average, did not perform better or worse than other units.	 Average hospital time delivery can be reduced by increasing the priority levels of medical calls.
+Although the medical units took the least amount of time to get ready and leave the scene, they were the fourth slowest to arrive on the scene. The fourth slowest was also the average time, meaning they on average, did not perform better or worse than other units.	 Average hospital time delivery can be reduced by increasing the priority levels of medical calls. Additionally, they had the highest level of incorrect priority, this solution addresses to problems within the fire department. 
 
 
 Thank you for reading! :-)
